@@ -199,7 +199,7 @@ Edit `config.toml` to customize:
 
 ### Navigation menu
 
-Edit the `themes/hugo-bulma-blocks-theme/layouts/partials/menu.html` file to customize:
+Edit the `themes/qgis-website-theme/layouts/partials/menu.html` file to customize:
 
 - `logo-icon`: The logo on the main navigation menu (by default: QGIS logo)
 - `logo-link`: The link where the logo points to (by default: qgis.org). You can set it to `/` if you want to point the logo the homepage of your user group website.
@@ -217,7 +217,7 @@ Edit the `static/config/navigation.json` file to customize the secondary menu on
 
 ### Styling
 
-The template uses the `hugo-bulma-blocks-theme` which provides:
+The template uses the `qgis-website-theme` which provides:
 
 - Responsive design
 - Clean, modern look
