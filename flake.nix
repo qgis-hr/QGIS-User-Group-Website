@@ -1,5 +1,5 @@
 {
-  description = "QGIS UC Website";
+  description = "QGIS User Group Website";
 
   # nixConfig = {
   #   extra-substituters = [ "https://example.cachix.org" ];
@@ -7,7 +7,13 @@
   # };
 
   inputs = {
-    nixpkgs.url = "github:NixOS/nixpkgs/nixos-unstable";
+    nixpkgs-version.url = "github:QGIS/qgis-nixpkgs-version";
+    nixpkgs.follows = "nixpkgs-version/nixpkgs-26-05";
+    # Fetch the Hugo theme submodule directly as a flake input
+    qgis-website-theme = {
+      url = "github:qgis/QGIS-Hugo-Website-Theme";
+      flake = false; # it's not a flake, just a source tree
+    };
   };
 
   outputs =
@@ -116,6 +122,22 @@
               echo "-----------------------"
             '';
           };
+        }
+      );
+      #
+      ### CHECKS
+      #
+
+      checks = forAllSystems (
+        system:
+        let
+          pkgs = nixpkgsFor.${system};
+        in
+        import ./nix/tests.nix {
+          inherit pkgs;
+          website = self.packages.${system}.website;
+          devShell = self.devShells.${system}.default;
+          websiteApp = self.apps.${system}.website.program;
         }
       );
     };
