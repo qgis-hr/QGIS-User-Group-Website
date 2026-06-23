@@ -17,7 +17,7 @@
   };
 
   outputs =
-    { self, nixpkgs }:
+    { self, nixpkgs, qgis-website-theme,... }:
     let
       # Flake system
       supportedSystems = [
@@ -47,7 +47,9 @@
           pkgs = nixpkgsFor.${system};
         in
         rec {
-          website = pkgs.callPackage ./nix/package.nix { };
+          website = pkgs.callPackage ./nix/package.nix {
+            theme = qgis-website-theme; # <-- pass the theme source in
+           };
           default = website;
         }
       );
@@ -124,6 +126,7 @@
           };
         }
       );
+
       #
       ### CHECKS
       #
