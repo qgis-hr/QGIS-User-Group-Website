@@ -2,7 +2,7 @@
   lib,
   stdenv,
   hugo,
-  theme, # the Hugo theme passed in from the flake
+  theme,
 }:
 
 stdenv.mkDerivation {
@@ -30,6 +30,11 @@ stdenv.mkDerivation {
     rm -rf themes/qgis-website-theme
     ln -s ${theme} themes/qgis-website-theme
     hugo --config config.toml,config/config.prod.toml
+  '';
+
+  installPhase = ''
+    mkdir -p $out
+    cp -r public_prod/* $out/
   '';
 
   meta = with lib; {
