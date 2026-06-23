@@ -54,16 +54,17 @@
     "qgis-website-theme": {
       "flake": false,
       "locked": {
-        "lastModified": 1781193698,
-        "narHash": "sha256-3pptYX3BV0Nm115bsbLQUnz4HAIERWeptAvG9vke3o8=",
+        "lastModified": 1771854215,
+        "narHash": "sha256-ic6J2UdEyGBbalQ/pjGeKxDMcQPlXoDzfdM8P2kBOFY=",
         "owner": "qgis",
         "repo": "QGIS-Hugo-Website-Theme",
-        "rev": "6843fab4f86d306e2eedd7b66b4ef48706fcfe8c",
+        "rev": "d79fbad1689e04319549b0ec2099b3d8c1b5d5af",
         "type": "github"
       },
       "original": {
         "owner": "qgis",
         "repo": "QGIS-Hugo-Website-Theme",
+        "rev": "d79fbad1689e04319549b0ec2099b3d8c1b5d5af",
         "type": "github"
       }
     },
