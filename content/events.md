@@ -1,27 +1,27 @@
 ---
 type: "page"
-title: "Events"
-subtitle: "Upcoming and past events"
+title: "Događaji"
+subtitle: "Nadolazeći i prošli događaji"
 draft: false
 sidebar: true
 ---
 
 {{< content-start >}}
 
-# Events
+# Događaji
 
-Stay updated with our upcoming meetups, workshops, and conferences. Join us to learn, share, and network with fellow QGIS enthusiasts.
+Prati naša nadolazeća druženja, radionice i konferencije. Pridružite nam se kako biste učili, dijelili iskustva i umrežili se s ostalim entuzijastima QGIS-a.
 
-## Upcoming Events
+## Nadolazeći događaji
 
 {{< rich-box-start layoutClass="has-right rounded" >}}
 {{< rich-content-start themeClass="coloring-2" >}}
-### QGIS User Group Meetup (Placeholder)
+### Druženje QGIS korisničke grupe (Predložak)
 
-When: [Date]  
-Where: [City / Online]
+Kada: [Datum]  
+Gdje: [Grad / Online]
 
-{{< button class = "is-primary1" link = "https://usergroup.qgis.org/" text = "Learn more" >}} 
+{{< button class = "is-primary1" link = "https://usergroup.qgis.org/" text = "Saznaj više" >}} 
 
 {{< rich-content-end >}}
 {{< rich-right-start >}}
@@ -36,17 +36,17 @@ Where: [City / Online]
 {{< rich-box-start >}}
 {{< rich-content-start themeClass="coloring-1">}}
 
-### Regular Meetups
+### Redovita druženja
 
-We organize regular meetups where members can:
-- Share their latest QGIS projects
-- Learn new techniques and workflows
-- Get help with QGIS challenges
-- Network with other users
+Organiziramo redovita druženja na kojima članovi mogu:
+- Podijeliti svoje najnovije QGIS projekte
+- Naučiti nove tehnike i radne procese
+- Dobiti pomoć s QGIS izazovima
+- Umrežiti se s drugim korisnicima
 
-**When:** [Add your meeting schedule]  
-**Where:** [Add your meeting location/online platform]  
-**Registration:** [Add registration information]
+**Kada:** [Dodajte raspored svojih druženja]  
+**Gdje:** [Dodajte lokaciju druženja / online platformu]  
+**Registracija:** [Dodajte informacije o registraciji]
 
 
 {{< rich-content-end >}}
@@ -57,16 +57,16 @@ We organize regular meetups where members can:
 {{< rich-box-start >}}
 {{< rich-content-start themeClass="coloring-1" >}}
 
-### Workshops & Training
+### Radionice i edukacije
 
-We regularly host hands-on workshops covering:
-- QGIS basics for beginners
-- Advanced analysis techniques
-- Plugin development
-- Cartography and visualization
-- Data processing workflows
+Redovito organiziramo praktične radionice koje pokrivaju:
+- Osnove QGIS-a za početnike
+- Napredne tehnike analize
+- Razvoj dodataka
+- Kartografiju i vizualizaciju
+- Radne procese obrade podataka
 
-Check back regularly for upcoming workshop announcements.
+Redovito provjeravaj najave nadolazećih radionica.
 
 
 {{< rich-content-end >}}
@@ -74,16 +74,16 @@ Check back regularly for upcoming workshop announcements.
 {{< column-end >}}
 {{< columns-end >}}
 
-## Past Events
+## Prošli događaji
 
-[Add information about past events, presentations, or links to recordings]
+[Dodajte informacije o prošlim događajima, prezentacijama ili poveznice na snimke]
 
 
 {{< rich-box-start icon="💁" layoutClass="tips">}}
 {{< rich-content-start themeClass="coloring-1" >}}
-##### Get Involved
+##### Uključi se
 
-Want to present at our next meetup or organize an event? Contact us at [your-contact-email]
+Želiš li prezentirati na našem sljedećem druženju ili organizirati događaj? Kontaktiraj nas na [your-contact-email]
 
 
 {{< rich-content-end >}}

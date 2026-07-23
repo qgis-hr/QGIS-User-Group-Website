@@ -143,34 +143,24 @@ sectionPagesMenu = 'main'
 # See https://gohugo.io/content-management/menus/
 [menu]
 [[menu.main]]
-  name = "Home"
+  name = "Početna"
   url = "/"
   weight = 10
 
 [[menu.main]]
-  name = "About Us"
+  name = "O nama"
   url = "/about-us/"
   weight = 20
 
 [[menu.main]]
-  name = "Case Studies"
-  url = "/case-studies/"
-  weight = 30
-
-[[menu.main]]
-  name = "Events"
+  name = "Događaji"
   url = "/events/"
   weight = 40
 
 [[menu.main]]
-  name = "Community"
+  name = "Zajednica"
   url = "/community/"
   weight = 50
-
-[[menu.main]]
-  name = "Tutorials"
-  url = "/tutorials/"
-  weight = 60
 
 [[menu.main]]
   name = "Blog"
@@ -178,7 +168,7 @@ sectionPagesMenu = 'main'
   weight = 70
 
 [[menu.main]]
-  name = "Rules"
+  name = "Pravila"
   url = "/rules/"
   weight = 80
 

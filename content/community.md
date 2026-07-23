@@ -1,27 +1,27 @@
 ---
 type: "page"
-title: "Community"
-subtitle: "QGIS ecosystem"
+title: "Zajednica"
+subtitle: "QGIS ekosustav"
 draft: false
 sidebar: true
 ---
 
 {{< content-start >}}
 
-# QGIS User Group Ecosystem
+# Ekosustav QGIS korisničke grupe
 
-Discover companies, contributors, and products supporting QGIS.
+Otkrijte tvrtke, suradnike i proizvode koji podržavaju QGIS.
 
 {{< columns-start >}}
 {{< column-start class="is-flex-direction-column is-half">}}
 {{< rich-box-start >}}
 {{< rich-content-start themeClass="coloring-1" >}}
 
-### Companies & Partners
+### Tvrtke i partneri
 
-- **[Company name]** — Services offered, location, contact
-- **[Company name]** — Services offered, location, contact
-- **[Company name]** — Services offered, location, contact
+- **[Naziv tvrtke]** — Ponuđene usluge, lokacija, kontakt
+- **[Naziv tvrtke]** — Ponuđene usluge, lokacija, kontakt
+- **[Naziv tvrtke]** — Ponuđene usluge, lokacija, kontakt
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}
@@ -31,11 +31,11 @@ Discover companies, contributors, and products supporting QGIS.
 {{< rich-box-start >}}
 {{< rich-content-start themeClass="coloring-1" >}}
 
-### Plugins & Products
+### Dodaci i proizvodi
 
-- **[Plugin/product]** — Short description, link
-- **[Plugin/product]** — Short description, link
-- **[Plugin/product]** — Short description, link
+- **[Dodatak/proizvod]** — Kratak opis, poveznica
+- **[Dodatak/proizvod]** — Kratak opis, poveznica
+- **[Dodatak/proizvod]** — Kratak opis, poveznica
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}
@@ -47,11 +47,11 @@ Discover companies, contributors, and products supporting QGIS.
 {{< rich-box-start >}}
 {{< rich-content-start themeClass="coloring-1" >}}
 
-### Contributors & Volunteers
+### Suradnici i volonteri
 
-- **[Name]** — Role (events, training, outreach)
-- **[Name]** — Role (plugins, documentation)
-- **[Name]** — Role (community)
+- **[Ime]** — Uloga (događaji, edukacija, promidžba)
+- **[Ime]** — Uloga (dodaci, dokumentacija)
+- **[Ime]** — Uloga (zajednica)
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}
@@ -61,11 +61,11 @@ Discover companies, contributors, and products supporting QGIS.
 {{< rich-box-start >}}
 {{< rich-content-start themeClass="coloring-1" >}}
 
-### How to Join
+### Kako se pridružiti
 
-- Email: [community@example.com]
-- Join our chat: [link]
-- Follow updates: [social links]
+- E-mail: [community@example.com]
+- Pridruži se našem chatu: [link]
+- Prati novosti: [poveznice na društvene mreže]
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}

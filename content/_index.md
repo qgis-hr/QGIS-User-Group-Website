@@ -1,27 +1,27 @@
 ---
 type: "page"
-title: "QGIS [Country]"
-subtitle: "Connecting QGIS users in our community"
+title: "QGIS zajednica u Hrvatskoj"
+subtitle: "Povezujemo korisnike QGIS-a u Hrvatskoj i šire"
 draft: false
 heroSize: "is-medium"
 heroLogo: "img/qgis_ch.png"
 HeroImage: "img/hegobg1.webp"
 HasBanner: true
 sidebar: true
-ButtonText: "Join Us!" 
+ButtonText: "Pridruži nam se!" 
 ButtonLink: "/events/"
 ---
 
 {{< content-start >}}
 
-## Welcome to the QGIS User Group
+## Dobrodošli u QGIS korisničku grupu
 
-We are a community of QGIS users passionate about open-source geospatial technology. Our mission is to promote the use of QGIS, share knowledge, and support each other in our geospatial projects.
+Mi smo zajednica korisnika QGIS-a, strastvenih ljubitelja geoprostorne tehnologije otvorenog koda. Naša misija je promicati korištenje QGIS-a, dijeliti znanje i podržavati jedni druge u našim geoprostornim projektima.
 
 {{< columns-start >}}
 {{< column-start class="is-flex-direction-column is-one-third left-title">}}
 
-## What We Do
+## Što radimo
 {{< column-end >}}
 
 
@@ -29,11 +29,11 @@ We are a community of QGIS users passionate about open-source geospatial technol
 {{< rich-box-start >}}
 {{< rich-content-start themeClass="coloring-1" >}} 
 
-- Organize regular meetups and events
-- Share best practices and use cases
-- Provide support for QGIS users at all levels
-- Contribute to the QGIS project
-- Network with geospatial professionals
+- Organiziramo redovita druženja i događaje
+- Dijelimo najbolje prakse i primjere korištenja
+- Pružamo podršku korisnicima QGIS-a na svim razinama
+- Doprinosimo QGIS projektu
+- Povezujemo se s geoprostornim stručnjacima
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}
@@ -45,16 +45,16 @@ We are a community of QGIS users passionate about open-source geospatial technol
 {{< columns-start class="mb-6">}}
 {{< column-start class="is-flex-direction-column is-one-third left-title">}}
 
-## Join Us
+## Pridruži nam se
 {{< column-end >}}
 
 {{< column-start class="is-flex-direction-column is-two-thirds">}}
 {{< rich-box-start >}}
 {{< rich-content-start themeClass="coloring-1" >}} 
 
-Whether you're a beginner or an experienced QGIS user, everyone is welcome. Join our events, participate in discussions, and help grow the community.
+Bilo da si početnik ili iskusan korisnik QGIS-a, svi su dobrodošli. Pridruži se našim događajima, sudjeluj u raspravama i pomozi u razvoju zajednice.
 
-[See our upcoming events](/events/)
+[Pogledaj naše nadolazeće događaje](/events/)
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}
@@ -62,8 +62,8 @@ Whether you're a beginner or an experienced QGIS user, everyone is welcome. Join
 {{< column-end >}}
 {{< columns-end >}}
 
-## Get Involved
+## Uključi se
 
-We welcome new members and contributors. Check out our [Rules](/rules/) page to learn about our community guidelines, and visit [About Us](/about-us/) to meet our team and volunteers.
+Pozdravljamo nove članove i suradnike. Pogledajte našu stranicu [Pravila](/rules/) kako biste saznali više o smjernicama naše zajednice, te posjetite [O nama](/about-us/) da upoznate naš tim i volontere.
 
 {{< content-end >}}

@@ -8,43 +8,29 @@
           {
             "type": "second-menu",
             "settings": {
-              "name": "Home",
+              "name": "Početna",
               "href": "/"
             }
           },
           {
             "type": "second-menu",
             "settings": {
-              "name": "About Us",
+              "name": "O nama",
               "href": "/about-us/"
             }
           },
           {
             "type": "second-menu",
             "settings": {
-              "name": "Case Studies",
-              "href": "/case-studies/"
-            }
-          },
-          {
-            "type": "second-menu",
-            "settings": {
-              "name": "Events",
+              "name": "Događaji",
               "href": "/events/"
             }
           },
           {
             "type": "second-menu",
             "settings": {
-              "name": "Community",
+              "name": "Zajednica",
               "href": "/community/"
-            }
-          },
-          {
-            "type": "second-menu",
-            "settings": {
-              "name": "Tutorials",
-              "href": "/tutorials/"
             }
           },
           {
@@ -57,7 +43,7 @@
           {
             "type": "second-menu",
             "settings": {
-              "name": "Rules",
+              "name": "Pravila",
               "href": "/rules/"
             }
           }

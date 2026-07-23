@@ -1,103 +1,103 @@
 ---
 type: "page"
-title: "Rules"
-subtitle: "Community guidelines and code of conduct"
+title: "Pravila"
+subtitle: "Smjernice zajednice i kodeks ponašanja"
 draft: false
 sidebar: true
 ---
 
 {{< content-start >}}
 
-# Rules and Guidelines
+# Pravila i smjernice
 
-To ensure a welcoming and productive environment for all members, we ask everyone to follow these guidelines.
+Kako bismo svim članovima osigurali ugodno i produktivno okruženje, molimo sve da poštuju sljedeće smjernice.
 
-## Code of Conduct
+## Kodeks ponašanja
 
-### Be Respectful
+### Budi pristojan
 
-- Treat all members with respect and courtesy
-- Welcome newcomers and help them feel included
-- Value diverse perspectives and experiences
-- Listen actively and thoughtfully
+- Prema svim članovima odnosi se s poštovanjem i ljubaznošću
+- Dočekaj nove članove i pomozi im da se osjećaju uključeno
+- Cijeni različita gledišta i iskustva
+- Aktivno i pažljivo slušaj
 
-### Be Collaborative
+### Budi suradljiv
 
-- Share knowledge and resources freely
-- Provide constructive feedback
-- Help others learn and grow
-- Acknowledge the contributions of others
+- Slobodno dijeli znanje i resurse
+- Pružaj konstruktivne povratne informacije
+- Pomozi drugima da uče i napreduju
+- Priznaj doprinose drugih
 
-### Be Professional
+### Budi profesionalan
 
-- Keep discussions focused and on-topic
-- Avoid harassment, discrimination, or offensive behavior
-- Respect privacy and confidentiality
-- Use appropriate language
+- Održavaj rasprave usmjerenima na temu
+- Izbjegavaj uznemiravanje, diskriminaciju ili uvredljivo ponašanje
+- Poštuj privatnost i povjerljivost
+- Koristi primjeren jezik
 
-## Participation Guidelines
+## Smjernice za sudjelovanje
 
-### Meetings and Events
+### Sastanci i događaji
 
-- Register for events when required
-- Arrive on time
-- Participate actively and constructively
-- Silence mobile devices during presentations
+- Prijavi se na događaje kada je to potrebno
+- Dođi na vrijeme
+- Sudjeluj aktivno i konstruktivno
+- Isključi zvuk na mobilnim uređajima tijekom prezentacija
 
-### Online Communication
+### Online komunikacija
 
-- Be clear and concise in communications
-- Stay on topic in discussion channels
-- Use appropriate channels for different topics
-- Respect others' time and attention
+- Budi jasan i sažet u komunikaciji
+- Drži se teme u kanalima za raspravu
+- Koristi odgovarajuće kanale za različite teme
+- Poštuj vrijeme i pažnju drugih
 
-### Content Sharing
+### Dijeljenje sadržaja
 
-- Share only content you have rights to share
-- Give proper attribution to sources
-- Respect intellectual property rights
-- Follow open-source licensing principles
+- Dijeli samo sadržaj za koji imaš pravo dijeljenja
+- Ispravno navedi izvore
+- Poštuj prava intelektualnog vlasništva
+- Slijedi načela licenciranja otvorenog koda
 
-## Enforcement
+## Provedba
 
-### Reporting Issues
+### Prijavljivanje problema
 
-If you experience or witness behavior that violates these guidelines:
-1. Contact any board member or organizer
-2. Send an email to [conduct@example.com]
-3. All reports will be handled confidentially
+Ako doživiš ili budeš svjedokom ponašanja koje krši ove smjernice:
+1. Obrati se bilo kojem članu odbora ili organizatoru
+2. Pošalji e-poštu na [conduct@example.com]
+3. Sve prijave bit će obrađene povjerljivo
 
-### Consequences
+### Posljedice
 
-Violations may result in:
-- Warning and request to change behavior
-- Temporary suspension from events
-- Permanent removal from the group
+Kršenja mogu rezultirati:
+- Upozorenjem i zahtjevom za promjenu ponašanja
+- Privremenom suspenzijom sudjelovanja na događajima
+- Trajnim isključenjem iz grupe
 
-## Membership
+## Članstvo
 
-### Joining
+### Pridruživanje
 
-- Membership is open to anyone interested in QGIS
-- No fees required (or specify if applicable)
-- Register via [registration link/process]
+- Članstvo je otvoreno svima koji su zainteresirani za QGIS
+- Nema potrebnih naknada (ili navedite ako je primjenjivo)
+- Registriraj se putem [poveznica za registraciju/postupak]
 
-### Responsibilities
+### Odgovornosti
 
-As a member, you are expected to:
-- Follow these rules and guidelines
-- Participate constructively
-- Support the group's mission
-- Contribute when able
+Od člana se očekuje da:
+- Poštuje ova pravila i smjernice
+- Sudjeluje konstruktivno
+- Podržava misiju grupe
+- Doprinosi kada je to moguće
 
-## Amendments
+## Izmjene
 
-These rules may be updated from time to time. Members will be notified of significant changes.
+Ova pravila mogu se s vremena na vrijeme ažurirati. Članovi će biti obaviješteni o značajnim izmjenama.
 
-**Last updated:** [Date]
+**Zadnje ažurirano:** [Datum]
 
-## Questions?
+## Pitanja?
 
-If you have questions about these rules, contact us at [contact@example.com]
+Ako imaš pitanja o ovim pravilima, kontaktiraj nas na [contact@example.com]
 
 {{< content-end >}}
